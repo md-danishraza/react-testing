@@ -1,4 +1,4 @@
 const Sandbox = () => {
-  return <div>Sandbox</div>;
+  return <div>rtl testing</div>;
 };
 export default Sandbox;
