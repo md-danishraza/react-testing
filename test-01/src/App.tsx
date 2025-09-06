@@ -1,4 +1,4 @@
-import Sandbox from "./final/05-form-testing/Sandbox";
+import Sandbox from "./final/06-reviews-app/Sandbox";
 function App() {
   return (
     <div className='p-8'>
